@@ -1,1 +1,1 @@
-# clipboard_for_linux
+# CopyCAT
