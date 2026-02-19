@@ -17,10 +17,6 @@ Uma ferramenta robusta de gerenciamento de área de transferência desenvolvida 
 Ferramenta inspirada no **Windows Clipboard (`Win + V`)**, desenvolvida para trazer essa praticidade ao **Linux** de forma simples, leve e eficiente.
 É uma necessidade pessoal de produtividade e desafio de utilizar o **C++**, em conjunto com funcionalides desejadas:
 
-* **Arquitetura:** Migração de código procedural para **POO** e boas práticas.
-* **Sistema:** Manipulação de **memória**, leitura de **teclado** e persistência em **arquivos**.
-* **Interface:** GUI nativa desenvolvida com o framework **Qt5**.
-
 ---
 
 ## 🚀 Funcionalidades Atuais
