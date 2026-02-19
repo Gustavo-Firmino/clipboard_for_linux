@@ -13,6 +13,14 @@
 
 Uma ferramenta robusta de gerenciamento de área de transferência desenvolvida em **C++** com a biblioteca **Qt5**, focada em performance e organização de histórico para usuários Linux.
 
+### O Projeto
+Ferramenta inspirada no **Windows Clipboard (`Win + V`)**, desenvolvida para trazer essa praticidade ao **Linux** de forma simples, leve e eficiente.
+É uma necessidade pessoal de produtividade e desafio de utilizar o **C++**, em conjunto com funcionalides desejadas:
+
+* **Arquitetura:** Migração de código procedural para **POO** e boas práticas.
+* **Sistema:** Manipulação de **memória**, leitura de **teclado** e persistência em **arquivos**.
+* **Interface:** GUI nativa desenvolvida com o framework **Qt5**.
+
 ---
 
 ## 🚀 Funcionalidades Atuais
@@ -36,3 +44,18 @@ Uma ferramenta robusta de gerenciamento de área de transferência desenvolvida 
 
 ### Pré-requisitos
 ... Em desenvolvimento
+
+### Próximos Passos (Checklist)
+[x] Conversão para POO
+
+[x] Persistência em arquivo (Histórico)
+
+[x] Interface básica com Qt5 
+
+[ ] Refinamento do sistema de Tasks internas, evitar o travamento da interface e preocupação com performance
+
+[ ] Implementação total da interface gráfica e funcionalidades que acompanham.
+
+[ ] Chamar a aplicação ao teclar o WIN + V
+
+[ ] (Em estudo) rodar a aplicação como um serviço do SO. 
